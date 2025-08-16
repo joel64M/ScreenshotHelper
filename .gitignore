@@ -23,7 +23,6 @@
 .DS_Store
 .idea/
 *.apk
-*.unitypackage
 *.vsconfig
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
