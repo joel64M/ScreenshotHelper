@@ -1,5 +1,5 @@
 # 📸 Screenshot Helper  
-DOWNLOAD → [ScreenshotHelper.unitypackage](./ScreenshotHelper.unitypackage?raw=true)
+DOWNLOAD → [ScreenshotHelper.unitypackage](https://github.com/joel64M/ScreenshotHelper/raw/master/Releases/ScreenshotHelper.unitypackage)
 A simple Unity tool for capturing high-quality screenshots directly in the Editor.  
 Supports **iPhone, iPad (App Store requirements)**, and **Android (Google Play requirements)** resolutions.  
 
