@@ -26,7 +26,8 @@ Originally built to generate **App Store–ready screenshots** (iPhone and iPad 
    - Pressing the **S** key (if enabled), or  
    - Clicking the **Take Screenshot** button in the UI.  
 
----
+6. (Optional) Use <a href="https://www.photopea.com/" target="_blank">Photopea</a> to add additional graphics or text to the screenshots to make them more appealing.
+
 
 ## 📂 Output  
 Screenshots are saved to the path you selected. If path was not selected they will be saved to your desktop folder
