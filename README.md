@@ -26,7 +26,7 @@ Originally built to generate **App Store–ready screenshots** (iPhone and iPad 
    - Pressing the **S** key (if enabled), or  
    - Clicking the **Take Screenshot** button in the UI.  
 
-6. (Optional) Use <a href="https://www.photopea.com/" target="_blank">Photopea</a> to add additional graphics or text to the screenshots to make them more appealing.
+6. (Optional) Use <a href="https://www.photopea.com/" target="_blank">Photopea</a> or other Image editing app to add additional graphics or text to the screenshots to make them more appealing.
 
 
 ## 📂 Output  
