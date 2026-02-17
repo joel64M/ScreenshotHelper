@@ -43,7 +43,5 @@ Screenshots are saved to the path you selected. If path was not selected they wi
 
 - [Unity Forum Discussion: Change Game Window Resolution Programmatically](https://discussions.unity.com/t/how-to-change-game-window-resoltuion-width-height-in-editor-mode-programmatically/861042)  
 - ChatGPT  
-- GitHub Copilot  
-
 
 
